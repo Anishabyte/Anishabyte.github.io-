@@ -19,4 +19,4 @@ Hosted the project on GitHub Pages .
 
 Added support for dark mode using CSS variables.
 
-Go to Action then Deployment to see the Deployed Portfolio site.
+🔯 **Go to Action then Deployment to see the Deployed Portfolio site.**
